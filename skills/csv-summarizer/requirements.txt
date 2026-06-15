@@ -1,0 +1,2 @@
+# csv-summarizer uses only the Python standard library.
+# Add runtime dependencies here if the skill grows.
